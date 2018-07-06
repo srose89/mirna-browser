@@ -1,0 +1,13 @@
+name: immgen_mirna_browser_v3
+title: immgen_mirna_browser_v3
+username:
+account: srose
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 354606
+bundleId: 1411466
+url: https://srose.shinyapps.io/immgen_mirna_browser_v3/
+when: 1528155279.72939
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|procData_20170325.R|procData_20180418.R|procData_20180530.R|procData_20180604.R|procData.R|data/.DS_Store|data/.gitattributes

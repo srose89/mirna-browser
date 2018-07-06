@@ -1,0 +1,11 @@
+name: immgen_mirna_browser2
+title: immgen_mirna_browser
+account: sarose
+server: shinyapps.io
+appId: 177248
+bundleId: 812127
+url: https://sarose.shinyapps.io/immgen_mirna_browser2/
+when: 1493743092.902
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|dataProcessingFunctions.R|procData_20170325.R|procData.R|data/.DS_Store|data/all.txt|data/Conserved_Site_Context_Scores.mod.mm.rds|data/immgen_mirna_cellClasses.RData|data/immgen_mirna_expression_20170325.RData|data/immgen_miRNAexp_shinyObjects.RData|data/mirnaAssayNamesFull.rds|data/tscanV7_cons_browser_20170326.rds|data/utr_gene_reference_tscan.rds|data/utr_gene_reference_tscanV7_20170325.rds|data/utr_gene_reference_tscanV7_20170403.rds|www/immgen_logo.jpg|www/yeti.css
