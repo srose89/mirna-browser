@@ -102,7 +102,15 @@ shinyUI(fluidPage(
                                 DT::dataTableOutput("tscan_list")
                                 )
                        )
-                      )
+                      )#,
+             # tabPanel("Help", 
+             #          # this will be a page just explaining what is going on
+             #          fluidRow(
+             #            column(12, 
+             #                   h3("Help Information"), 
+             #                   br()#,
+             #                   )
+             #          ))
                     
   )
    , 
