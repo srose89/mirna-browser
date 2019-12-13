@@ -19,7 +19,7 @@ source("helpers.R")
 # the only global object I really need to load is the expression information and libraries
 
 ig_db <- src_sqlite("./data/ig_db.filt.sqlite3", create = F)
-tscan.full <- tbl(ig_db, "tscan.filt")
+tscan.full <- tbl(ig_db, "tscan.f")
 exp.lm <- tbl(ig_db, "exp.lm")
 exp.l2m <- tbl(ig_db, "exp.l2m")
 utr <- tbl(ig_db, "utr")
